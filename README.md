@@ -86,38 +86,3 @@ NEXT_PUBLIC_RECAPTCHA_SITE_KEY =
 ```
 
 ### Then, Customize data in the `utils/data` [folder](https://github.com/said7388/developer-portfolio/tree/main/utils/data).
-
-Eg:
-
-```javascript
-export const personalData = {
-  name: "SEBASTIAN PEREZ",
-  profile: "/profile.png",
-  designation: "Full-Stack Software Developer",
-  description: "My name is SEBASTIAN PEREZ....",
-  email: "sebpegue20@gmail.com",
-  address: "Colombia",
-  github: "https://github.com/kingsweet55",
-};
-```
-
-`devUsername` Used for fetching blog from `dev.to`.
-
----
-
----
-
-# Packages Used :package:
-
-| Used Package List  |
-| :----------------: |
-|        next        |
-|  @emailjs/browser  |
-|    lottie-react    |
-| react-fast-marquee |
-|    react-icons     |
-|   react-toastify   |
-|        sass        |
-|    tailwindcss     |
-
----
