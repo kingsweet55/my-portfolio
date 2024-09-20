@@ -95,17 +95,9 @@ export const personalData = {
   profile: "/profile.png",
   designation: "Full-Stack Software Developer",
   description: "My name is SEBASTIAN PEREZ....",
-  email: "abusaid7388@gmail.com",
-  phone: "+8801608797655",
+  email: "sebpegue20@gmail.com",
   address: "Colombia",
   github: "https://github.com/kingsweet55",
-  facebook: "https://www.facebook.com/abusaid.riyaz/",
-  linkedIn: "https://www.linkedin.com/in/abu-said-bd/",
-  twitter: "https://twitter.com/said7388",
-  stackOverflow: "https://stackoverflow.com/users/16840768/abu-said",
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
-  resume: "...",
 };
 ```
 
